@@ -1,4 +1,4 @@
 # MCMD
 The ultimate solution to your Minecraft Command problems
 
-https://mcmdo.github.io/mcmd
+https://mcmd-dev.github.io/
